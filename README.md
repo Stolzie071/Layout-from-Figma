@@ -2,6 +2,5 @@
 Методы и технологии дизайн-проектирования в информационное среде / Практика 2
 # Eco Finance Website
 
-Демо: [https://stolzie071.github.io/Layout-from-Figma/](![image](https://github.com/user-attachments/assets/8dbce55a-17e5-4016-ab5f-792d51057119)
-)
-
+Демо: [https://stolzie071.github.io/Layout-from-Figma/](https://stolzie071.github.io/Layout-from-Figma/)
+![image](https://github.com/user-attachments/assets/1e45ee9e-4568-4633-922e-95c52fd6f9ef)
